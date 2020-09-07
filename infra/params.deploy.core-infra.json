@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "computeName": {
+      "value": "igniteCluster"
+    },
+    "eventGridSubscriptionName": {
+      "value": "igniteMlWorkspace"
+    },
+    "workspaceName": {
+      "value": "igniteMlWorkspace"
+    },
+    "DataLakestorageName": {
+      "value": "mydlsdemo2"
+    }
+  }
+}
