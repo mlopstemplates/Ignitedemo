@@ -7,7 +7,6 @@ on:
       - 'infra/deploy.core-infra.json'
       - 'infra/params.deploy.core-infra.json'
       - '.github/workflows/infra_train.yml'
-
 env:
   AZURE_RESOURCE_GROUP: IgniteDemo
   AZURE_LOCATION: southcentralUS
