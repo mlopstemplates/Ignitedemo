@@ -9,7 +9,7 @@ on:
       - '.github/workflows/infra_train.yml'
 
 env:
-  AZURE_RESOURCE_GROUP: ashkumamlignite
+  AZURE_RESOURCE_GROUP: IgniteDemo
   AZURE_LOCATION: southcentralUS
 
 jobs:
